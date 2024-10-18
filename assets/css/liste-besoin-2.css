@@ -1,0 +1,59 @@
+* {
+    font-family: 'Arial', sans-serif;
+    align-content: center;
+}
+
+.besoins-container {
+    width: 97.3%;
+    height: 95%;
+    margin-left: 1.4%;
+    align-content: normal;
+    text-align: center;
+}
+
+h2 {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    color: #FF5349;
+}
+
+table {
+    width: 100%;
+    border: 1px solid;
+    border-spacing: 0;
+}
+
+th {
+    border: 1px solid;
+    padding: 14px 16px;
+}
+
+td {
+    border: 1px solid;
+    padding: 12px 16px;
+    width: 200px;
+}
+
+.action {
+    width: 100%;
+}
+
+button {
+    width: 130px;
+    padding: 16px 24px;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 14px;
+    font-weight: bold;
+}
+
+.valider {
+    margin-right: 10px;
+    background-color: #3ae57f;
+}
+
+.rejeter {
+    background-color: #FF5349;
+}

@@ -1,0 +1,35 @@
+* {
+    font-family: 'Arial', sans-serif;
+    align-content: center;
+}
+
+.besoins-container {
+    width: 97.3%;
+    height: 95%;
+    margin-left: 1.4%;
+    align-content: normal;
+    text-align: center;
+}
+
+h2 {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    color: #FF5349;
+}
+
+table {
+    width: 100%;
+    border: 1px solid;
+    border-spacing: 0;
+}
+
+th {
+    border: 1px solid;
+    padding: 14px 16px;
+}
+
+td {
+    border: 1px solid;
+    padding: 14px 16px;
+    width: 200px;
+}
